@@ -99,6 +99,6 @@ The classifier works best with clear, front-facing faces. Small, tilted, obscure
 
 Originally developed on November 10, 2025. This repository contains a reconstruction created after the original source files were lost.
 
-## Acknowledgments
+## Programming Club project
 
-This project was led by Sahil Harlalka as part of his school's Programming Club.
+Sahil Harlalka, president of the Programming Club at Seminole High School, led a team of ten students in building this project as an introduction to Python and artificial intelligence. The project uses a pretrained OpenCV face detector to introduce a practical computer vision application.
